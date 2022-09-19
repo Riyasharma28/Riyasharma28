@@ -4,5 +4,4 @@
 - 💬 Ask me about anything!
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me:https://www.instagram.com/riyasharma__28
-- linkedin.com/in/riyasharma28
-- https://in.pinterest.com/Riiyaa_28/
+
