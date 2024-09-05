@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Frontend Development Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
 
