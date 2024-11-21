@@ -10,7 +10,8 @@
 
 - 🔭 I am working on: *EyeOnRoad*, a hardware device for V2V communication, enhancing road safety with real-time data exchange, GPS email alerts, and sensor-driven accident analysis!
   
--  Contributor at GirlScript Summer Of Code, 2024!
+-  Contributor at GirlScript Summer Of Code & Social Summer of Code, 2024!
+-  
 -  Member of GenAI Study Jam Cohort 2.0
 
 - 🌱 I am learning: *AI/ML, Cloud*
