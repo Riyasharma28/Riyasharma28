@@ -1,7 +1,7 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Riya+Sharma;I'm+Software+Developer;I'm+Frontent+Developer;I'm+Graphic+Designer"></p>
-<h3 align="center">SDE-Intern @ Xebia Technologies | COE Core, Final Year, Batch of 2025 | Ex-Intern @LinkedIn </h3>
+<h3 align="center">SDE-Intern @ Xebia Technologies | Computer Engineering, Final Year, Batch of 2025 | Ex-Intern @LinkedIn </h3>
 
 <br>
 
