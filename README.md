@@ -46,8 +46,8 @@ const Riya_Sharma= {
 | Qualification | Institute | Affiliated By | Year of Study | Percentage |
 | :-: | :----: | :--: | :--: | :--: |
 | B.Tech COE | Thapar Institute of Engineering & Technology | NAAC | Nov 2021-Present | 7.09 CGPA |
-| 12th Standard | Dr.MCM DAV Centrary Public School | CBSE | 2019-2021 | 95 % |
-| 10th Standard | St Joseph's Convent Sec School  | CBSE | 2006-2019 | 93.2 % |
+| 12th Standard | Dr.MCM DAV Centrary Public School | CBSE | 2020-2021 | 95 % |
+| 10th Standard | St Joseph's Convent Sec School  | CBSE | 2018-2019 | 93.2 % |
 <!-- END_SECTION:blog -->
 </td>
 </tr>
